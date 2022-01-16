@@ -1,4 +1,4 @@
-const currencyEl_one = document.getElementById('currency-one');
+const currencyEl_one = document.getElementById('currency_one');
 const amountEl_one = document.getElementById('amount_one');
 const currencyEl_two = document.getElementById('currency_two');
 const amountEl_two = document.getElementById('amount_two');
