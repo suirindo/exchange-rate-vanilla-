@@ -5,6 +5,8 @@ const amountEl_two = document.getElementById('amount_two');
 const rateEl = document.getElementById('rate');
 const swap = document.getElementById('swap');
 
+
+
 function calculate () {
     const currency_one = currencyEl_one.value;
     const currency_two = currencyEl_two.value;
