@@ -8,5 +8,8 @@ Select countries to get the exchange rate for a specfic amount
 - Update values on amount change
 - Swap country rates
 
+## GitHub Pages URL
+https://suirindo.github.io/exchange-rate-vanilla-/
+
 ## reference
 https://github.com/bradtraversy/vanillawebprojects/tree/master/exchange-rate
